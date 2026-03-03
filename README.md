@@ -21,11 +21,11 @@
 
 [//]: # (<p align="center">)
 
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=Pamindu-Dasun&show_icons=true&theme=tokyonight" alt="Tharinda-Pamindu's github stats"/>)
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=Pamindu-Dasun&show_icons=true&theme=tokyonight" alt="Pamindu-Dasun's github stats"/>)
 
 [//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamindu-Dasun&theme=tokyonight" alt="Top Languages"/>)
 
-[//]: # (  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pamindu-Dasun&theme=tokyonight" alt="Tharinda-Pamindu's Profile Details"/>)
+[//]: # (  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pamindu-Dasun&theme=tokyonight" alt="Pamindu-Dasun's Profile Details"/>)
 
 [//]: # (</p>)
 
@@ -53,10 +53,10 @@
   </td>
 </tr>
 
-<!-- Tharinda's GitHub contribution graph -->
+<!-- Pamindu-Dasun's GitHub contribution graph -->
 <tr>
   <th colspan="2">
-    <img src="https://activity-graph.vercel.app/graph?username=Pamindu-Dasun&theme=react-dark&hide_border=true&custom_title=Tharinda%20Pamindu's%20GitHub%20contribution%20graph" alt = "Pamindu-Dasun's GitHub contribution graph"/>
+    <img src="https://activity-graph.vercel.app/graph?username=Pamindu-Dasun&theme=react-dark&hide_border=true&custom_title=Pamindu%20Dasun's%20GitHub%20contribution%20graph" alt = "Pamindu-Dasun's GitHub contribution graph"/>
   </th>
 </tr>
 
