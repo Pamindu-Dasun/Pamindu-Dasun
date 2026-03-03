@@ -62,7 +62,7 @@
 
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pamindu-Dasun&theme=tokyonight" alt="Tharinda-Pamindu's Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pamindu-Dasun&theme=tokyonight" alt="Pamindu-Dasun's Profile Details"/>
 </td>
 </tr>
 </table>
